@@ -1,2 +1,2 @@
 # portafoliorg
-portafolio de trabajo final para el curso de frontend
+Trabajo final para el curso Primeros Pasos del Desarrollo Frontend
